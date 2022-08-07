@@ -1,13 +1,17 @@
-👋 **Hi, I’m @ALai57! I’m interested in**  
+👋 **Hi, I’m @ALai57! I’m interested in**   
+--
    - Building systems that can be extended easily and scaled gracefully
    - Designing the right mental models and abstractions to solve problems
-   - Storytelling using data analysis and visualization
+   - Storytelling using data analysis and visualization   
+  
+💻 I write in 
+--
+- Clojure, Clojurescript, Javascript and React 
+- Sometimes write Python, Ruby
 
-<br/>
-💻 **I usually write in** Clojure, Clojurescript, Javascript&React **I sometimes write** Python, Ruby
-
-<br/>
-🌱 **I’m currently learning** 3D Javascript rendering using [react-three-fiber](https://github.com/pmndrs/react-three-fiber) and [Blender](https://www.blender.org/).
+🌱 I’m currently learning
+--
+- 3D Javascript rendering using [react-three-fiber](https://github.com/pmndrs/react-three-fiber) and [Blender](https://www.blender.org/).
 
 
 <!---
