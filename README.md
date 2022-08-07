@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @ALai57
-- 👀 I’m interested in 
+👋 **Hi, I’m @ALai57! I’m interested in**  
    - Building systems that can be extended easily and scaled gracefully
    - Designing the right mental models and abstractions to solve problems
    - Storytelling using data analysis and visualization
 
-- I usually write in Clojure, Clojurescript, Javascript&React, and I sometimes write Python and Ruby
+<br/>
+💻 **I usually write in** Clojure, Clojurescript, Javascript&React **I sometimes write** Python, Ruby
 
-- 🌱 I’m currently learning `react-three-fiber`, Blender, and 3D Javascript rendering
+<br/>
+🌱 **I’m currently learning** 3D Javascript rendering using [react-three-fiber]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/pmndrs/react-three-fiber) and [Blender](https://www.blender.org/).
+
 
 <!---
 ALai57/ALai57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
