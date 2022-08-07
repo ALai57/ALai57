@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @ALai57
 - 👀 I’m interested in 
-   - Building scalable and extensible systems
-   - Defining powerful abstractions
-   - Data analysis and visualization
+   - Building systems that can be extended easily and scaled gracefully
+   - Designing the right mental models and abstractions to solve problems
+   - Storytelling using data analysis and visualization
+
 - I usually write in Clojure, Clojurescript, Javascript&React, and I sometimes write Python and Ruby
+
 - 🌱 I’m currently learning `react-three-fiber`, Blender, and 3D Javascript rendering
 
 <!---
