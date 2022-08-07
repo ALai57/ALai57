@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @ALai57
-- 👀 I’m interested in Functional Programming, Clojure, and building Websites (mostly in React)! I also like data analysis and visualization.
+- 👀 I’m interested in 
+   - Building scalable and extensible systems
+   - Defining powerful abstractions
+   - Data analysis and visualization
+- I usually write in Clojure, Clojurescript, Javascript&React, and I sometimes write Python and Ruby
 - 🌱 I’m currently learning `react-three-fiber`, Blender, and 3D Javascript rendering
-- 📫 How to reach me ...
 
 <!---
 ALai57/ALai57 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
