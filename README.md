@@ -7,7 +7,7 @@
 💻 **I usually write in** Clojure, Clojurescript, Javascript&React **I sometimes write** Python, Ruby
 
 <br/>
-🌱 **I’m currently learning** 3D Javascript rendering using [react-three-fiber]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/pmndrs/react-three-fiber) and [Blender](https://www.blender.org/).
+🌱 **I’m currently learning** 3D Javascript rendering using [react-three-fiber](https://github.com/pmndrs/react-three-fiber) and [Blender](https://www.blender.org/).
 
 
 <!---
