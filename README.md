@@ -1,7 +1,7 @@
 👋 **Hi, I’m @ALai57! I’m interested in**   
 --
    - Building systems that can be extended easily and scaled gracefully
-   - Designing the right mental models and abstractions to solve problems
+   - Designing concise mental models and abstractions to solve problems
    - Storytelling using data analysis and visualization   
   
 💻 I write in 
