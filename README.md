@@ -7,7 +7,7 @@
 💻 I write in 
 --
 - Clojure, Clojurescript, Javascript and React 
-- Sometimes write Python, Ruby
+- Sometimes Python, Ruby
 
 🌱 I’m currently learning
 --
